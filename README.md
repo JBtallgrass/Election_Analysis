@@ -1,7 +1,11 @@
 #Election_Analysis
-Python practice to apply more 
+
+Python practice to apply more
+
 ##Overview of Election Audit 
+
 The audit aims to develop the election data further and determine additional details. The results were consistent with the solution; however, the “print” output was not similar to the solution. 
+
 ## Election-Audit Results: 
 1.	What is the total count? 369,711 votes
 2.	Vote breakdown by County:
