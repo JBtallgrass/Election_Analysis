@@ -1,6 +1,6 @@
-###Election_Analysis
+### Election_Analysis
 
-#Python practice to apply more
+# Python practice to apply more
 
 ##Overview of Election Audit 
 
@@ -22,5 +22,5 @@ The audit aims to develop the election data further and determine additional det
 ## Election-Audit Summary: 
 The application of the programming script can work across several elections. First, depending on uploading the CSV file and ensuring the variables represent the state, localities, and candidates. 
 
-This was a challenging task- I took several days to debug this and go back over the module.  Although painful it served me well to continue to rework it
+# Final thought: This was a challenging task- I took several days to debug this and go back over the module.  Although painful it served me well to continue to rework it
 
