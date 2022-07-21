@@ -4,7 +4,7 @@
 
 ## Overview of Election Audit 
 
-The audit aims to develop the election data further and determine additional details. The results were consistent with the solution; however, the “print” output was not similar to the solution. 
+The audit aims to develop the election data further and determine additional details. The results were consistent with the solution; however, the “print” output was not similar to the solution. I was not able to figure out where this went wrong even after several attmepts to "research" the solution to find code that would produce the output as designed.
 
 ## Election-Audit Results: 
 1.	What is the total count? 369,711 votes
